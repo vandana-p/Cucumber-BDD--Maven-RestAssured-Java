@@ -1,0 +1,22 @@
+[
+  {
+    "id": useridvalue1,
+  "username": "usernamevalue1",
+  "firstName": "fnvalue1",
+  "lastName": "lnvalue1",
+  "email": "emailvalue1",
+  "password": "pwdvalue1",
+  "phone": "phonevalue1",
+  "userStatus": statusvalue1
+  },
+  {
+    "id": useridvalue2,
+  "username": "usernamevalue2",
+  "firstName": "fnvalue2",
+  "lastName": "lnvalue2",
+  "email": "emailvalue2",
+  "password": "pwdvalue2",
+  "phone": "phonevalue2",
+  "userStatus": statusvalue2
+  }
+]
